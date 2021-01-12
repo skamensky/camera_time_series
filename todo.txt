@@ -1,0 +1,3 @@
+* Scan media files without xml
+* DONE
+    * Multiple items on graph for each camera
